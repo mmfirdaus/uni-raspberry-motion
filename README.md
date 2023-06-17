@@ -1,8 +1,7 @@
 # uni-raspberry-motion
 UTeM Wireless Project - Raspberry Pi GPIO Module Motion Detection with Alert System on Telegram Bot
 
-WIRING GUIDE
-RASPBERRY PI WIRING
+WIRING GUIDE (RASPBERRY PI)
 
 1. PIR MOTION SENSOR - GPIO 21
 2. BUZZER            - GPIO 23
