@@ -13,3 +13,4 @@ WIRING GUIDE (RASPBERRY PI)
 
 The bot is probably Dead by now.
 
+![alt text]([http://url/to/img.png](https://github.com/mmfirdaus/uni-raspberry-motion/blob/main/pi_guide.png)https://github.com/mmfirdaus/uni-raspberry-motion/blob/main/pi_guide.png)
